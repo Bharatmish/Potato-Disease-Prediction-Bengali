@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'Potato-Disease-Classification-model-Bengali'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4B83E9E59C8F4BB7BB18FD2629FBAC93 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6C74AA555FD44D14886A8DB9CC4674CF }}
